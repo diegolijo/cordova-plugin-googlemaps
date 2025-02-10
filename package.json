@@ -46,7 +46,6 @@
   },
   "peerDependencies": {
     "cordova-android": ">=10.0.0",
-    "cordova-ios": ">=5.1.1",
-    "apple-xcode": ">=10.0.0"
+    "cordova-ios": ">=5.1.1"
   }
 }
